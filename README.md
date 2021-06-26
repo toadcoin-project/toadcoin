@@ -1,7 +1,7 @@
 Toadcoin Core integration/staging tree
 =====================================
 
-https://litecoin.org
+https://toadcoin.org
 
 What is Toadcoin?
 ----------------
@@ -30,8 +30,6 @@ regularly to indicate new official, stable release versions of Litecoin Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md)
 and useful hints for developers can be found in [doc/developer-notes.md](doc/developer-notes.md).
-
-Developer IRC can be found on Freenode at #litecoin-dev.
 
 Testing
 -------
